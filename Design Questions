@@ -1,4 +1,4 @@
-## Design Questions
+# Design Questions
 
 ### 1. What tables should you build?
 - Courses: To store information about each course.
