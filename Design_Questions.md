@@ -48,7 +48,7 @@ This approach allows easy tracking of the current status of courses, learning ou
 - Ensuring learning outcomes are only added for valid courses and instructors assigned to valid courses.
 
 ### 8. Relational Model
-# Database Diagram
+
 
 ```mermaid
 erDiagram
