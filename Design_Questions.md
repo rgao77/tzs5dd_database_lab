@@ -48,7 +48,7 @@ This approach allows easy tracking of the current status of courses, learning ou
 - Ensuring learning outcomes are only added for valid courses and instructors assigned to valid courses.
 
 ### 8. Relational Model
-ER diagram.pdf
+database_diagram.md
 
 ### 9. Support for UVA SDS Residential MSDS Program
 - To support the UVA SDS Residential MSDS Program, we might need to add fields to indicate the program type (Online or Residential) in the `Courses` table. Additionally, data specific to residential programs might be needed, such as physical classroom locations or residential program-specific learning outcomes.
