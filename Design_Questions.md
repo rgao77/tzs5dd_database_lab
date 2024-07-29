@@ -48,47 +48,7 @@ This approach allows easy tracking of the current status of courses, learning ou
 - Ensuring learning outcomes are only added for valid courses and instructors assigned to valid courses.
 
 ### 8. Relational Model
-
-
-```mermaid
-erDiagram
-    Courses {
-        INT course_id PK
-        VARCHAR mnemonic
-        VARCHAR course_name
-        TEXT description_short
-        BOOLEAN active
-    }
-    LearningOutcomes {
-        INT lo_id PK
-        INT course_id FK
-        TEXT description
-        BOOLEAN active
-    }
-    Instructors {
-        INT instructor_id PK
-        VARCHAR name
-        VARCHAR email
-        BOOLEAN active
-    }
-    Terms {
-        INT term_id PK
-        VARCHAR term_name
-    }
-    InstructorAssignments {
-        INT assignment_id PK
-        INT course_id FK
-        INT instructor_id FK
-        INT term_id FK
-        INT year
-    }
-
-    Courses ||--o{ LearningOutcomes : "has"
-    Courses ||--o{ InstructorAssignments : "is assigned"
-    Instructors ||--o{ InstructorAssignments : "is assigned"
-    Terms ||--o{ InstructorAssignments : "is part of"
-
-
+database_diagram.md
 
 ### 9. Support for UVA SDS Residential MSDS Program
 - To support the UVA SDS Residential MSDS Program, we might need to add fields to indicate the program type (Online or Residential) in the `Courses` table. Additionally, data specific to residential programs might be needed, such as physical classroom locations or residential program-specific learning outcomes.
