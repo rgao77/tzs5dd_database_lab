@@ -1,0 +1,26 @@
+instructor_id,name,email,active
+1,Pete Alonzi,palonzi@example.com,TRUE
+2,Jeffrey Woo,jwoo@example.com,TRUE
+3,Judy Fox,jfox@example.com,TRUE
+4,Jeremy Bolton,jbolton@example.com,FALSE
+5,Bill Basener,bbasener@example.com,TRUE
+6,Marc Ruggiano,mruggiano@example.com,TRUE
+7,Adam Tashman,atashman@example.com,TRUE
+8,Sree Mallikarjun,smallikarjun@example.com,TRUE
+9,Eric Tassone,etassone@example.com,TRUE
+10,Peter Gedeck,pgedeck@example.com,TRUE
+11,Abbas Kazemipour,akazemipour@example.com,TRUE
+12,Cait Dreisbach,cdreisbach@example.com,TRUE
+13,Lei Xie,lxie@example.com,TRUE
+14,Renee Cummings,rcummings@example.com,TRUE
+15,Stephen Baek,sbaek@example.com,TRUE
+16,Raf Alvarado,ralvarado@example.com,TRUE
+17,Teague Henry,thenry@example.com,TRUE
+18,Rich Nguyen,rnguyen@example.com,TRUE
+19,Jon Kropko,jkropko@example.com,TRUE
+20,Nada Basit,nbasit@example.com,TRUE
+21,Panagiotis Apostolellis,papostolellis@example.com,TRUE
+22,Mike Porter,mporter@example.com,TRUE
+23,Luis Felipe Rosado Murillo,lfrosadomurillo@example.com,FALSE
+24,Jason Williamson,jwilliamson@example.com,TRUE
+25,Eric Field,efield@example.com,TRUE
