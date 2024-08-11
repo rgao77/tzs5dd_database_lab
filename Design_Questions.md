@@ -37,6 +37,7 @@ This approach allows easy tracking of the current status of courses, learning ou
 - There are no transitive dependencies among the non-key attributes.
 
 ### 6. Are there indexes that you should build? Explain your reasoning.
+Indexes are important for enhancing the performance of queries involving search conditions, joins, and aggregation operations.
   - Primary Keys: Indexes on `course_id`, `lo_id`, `instructor_id`, `term_id`, and `assignment_id`.
   - Foreign Keys: Indexes on `LearningOutcomes.course_id`, `InstructorAssignments.course_id`, `InstructorAssignments.instructor_id`, and `InstructorAssignments.term_id`.
 
