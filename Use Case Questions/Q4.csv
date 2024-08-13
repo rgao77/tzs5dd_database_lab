@@ -1,4 +1,18 @@
 MNEMONIC,NAME,LEARNING_OUTCOME_COUNT
+ds5001,Exploratory Text Analytics,8
 ds5012,Foundations of Computer Science,0
+ds5100,Programming for Data Science,34
+ds5110,Big Data Systems,37
+ds6001,Practice and Application of Data Science,10
+ds6002,Big Data Ethics,2
+ds6003,Practice and Application of Data Science Part 2,3
+ds6011,Data Science Capstone Project Work I,4
+ds6012,Big Data Ethics Part 2,2
+ds6013,Data Science Capstone Project Work II,4
+ds6030,Statistical Learning,19
+ds6040,Bayesian Machine Learning,37
+ds6050,Deep Learning,24
 ds_biz_anaytics,Business Analytics for Data Scientists,0
+ds_tech_bootcamp,Technical Bootcamp,15
 sarc5400,Data Visualization,0
+stat6021,Linear Models for Data Science,13
