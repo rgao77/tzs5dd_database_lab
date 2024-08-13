@@ -1,5 +1,4 @@
-### 1) (1 PT) Which courses are currently included (active) in the program? Include the course mnemonic and course name for each.
-  MNEMONIC,NAME
+MNEMONIC,NAME
 ds_biz_anaytics,Business Analytics for Data Scientists
 ds_tech_bootcamp,Technical Bootcamp
 ds5001,Exploratory Text Analytics
@@ -15,3 +14,4 @@ ds6040,Bayesian Machine Learning
 ds6050,Deep Learning
 sarc5400,Data Visualization
 stat6021,Linear Models for Data Science
+
