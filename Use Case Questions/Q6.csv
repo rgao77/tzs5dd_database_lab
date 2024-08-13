@@ -1,6 +1,4 @@
-
-
-MNEMONIC, NAME, LEARNING_OUTCOME
+MNEMONIC,NAME,LEARNING_OUTCOME
 ds5110,Big Data Systems,Apply Spark SQL to data analysis tasks
 ds6001,Practice and Application of Data Science,Understand the purpose, typology, and language of NoSQL databases
 ds6001,Practice and Application of Data Science,Understand how to implement databases Python: SQLite, PostgreSQL, MySQL, MongoDB
