@@ -1,42 +1,42 @@
-SEMESTER,INSTRUCTOR,COURSE_COUNT
-FALL2021,Adam Tashman,1
-FALL2021,Bill Basener,2
-FALL2021,Eric Tassone,1
-FALL2021,Jeffrey Woo,1
-FALL2021,Jeremy Bolton,1
-FALL2021,Jeremy Bolton, Peter Gedeck, Eric Tassone, Abbas Kazemipour, Cait Dreisbach, Lei Xie,1
-FALL2021,Judy Fox,1
-FALL2021,Marc Ruggiano,1
-FALL2021,Pete Alonzi,1
-FALL2021,Raf Alvarado & Teague Henry,1
-FALL2021,Renee Cummings,1
-FALL2021,Sree Mallikarjun,1
-FALL2021,Stephen Baek,1
-SPRING2021,Adam Tashman,1
-SPRING2021,Bill Basener,1
-SPRING2021,Eric Field,1
-SPRING2021,Jason Williamson,1
-SPRING2021,Jeffrey Woo,1
-SPRING2021,Jon Kropko,2
-SPRING2021,Judy Fox,1
-SPRING2021,Luis Felipe Rosado Murillo,2
-SPRING2021,Mike Porter,1
-SPRING2021,Panagiotis Apostolellis,1
-SPRING2021,Pete Alonzi,1
-SPRING2021,Raf Alvarado,1
-SPRING2021,Rich Nguyen,1
-SPRING2021,Sree Mallikarjun,1
-SUMMER2021,Adam Tashman,1
-SUMMER2021,Jason Williamson,1
-SUMMER2021,Jeffrey Woo,1
-SUMMER2021,Jeremy Bolton,1
-SUMMER2021,Jon Kropko,1
-SUMMER2021,Nada Basit,1
-SUMMER2021,Pete Alonzi,1
-SUMMER2021,Peter Gedeck,1
-SUMMER2021,Raf Alvarado,1
-SUMMER2021,Raf Alvarado & Teague Henry,1
-SUMMER2021,Renee Cummings,2
-SUMMER2021,Rich Nguyen,1
-SUMMER2021,Sree Mallikarjun,1
-SUMMER2021,Teague Henry,1
+SEMESTER	INSTRUCTOR	COURSE_COUNT
+FALL2021	Adam Tashman	1
+FALL2021	Bill Basener	2
+FALL2021	Eric Tassone	1
+FALL2021	Jeffrey Woo	1
+FALL2021	Jeremy Bolton	1
+FALL2021	"Jeremy Bolton, Peter Gedeck, Eric Tassone, Abbas Kazemipour, Cait Dreisbach, Lei Xie"	1
+FALL2021	Judy Fox	1
+FALL2021	Marc Ruggiano	1
+FALL2021	Pete Alonzi	1
+FALL2021	Raf Alvarado & Teague Henry	1
+FALL2021	Renee Cummings	1
+FALL2021	Sree Mallikarjun	1
+FALL2021	Stephen Baek	1
+SPRING2021	Adam Tashman	1
+SPRING2021	Bill Basener	1
+SPRING2021	Eric Field	1
+SPRING2021	Jason Williamson	1
+SPRING2021	Jeffrey Woo	1
+SPRING2021	Jon Kropko	2
+SPRING2021	Judy Fox	1
+SPRING2021	Luis Felipe Rosado Murillo	2
+SPRING2021	Mike Porter	1
+SPRING2021	Panagiotis Apostolellis	1
+SPRING2021	Pete Alonzi	1
+SPRING2021	Raf Alvarado	1
+SPRING2021	Rich Nguyen	1
+SPRING2021	Sree Mallikarjun	1
+SUMMER2021	Adam Tashman	1
+SUMMER2021	Jason Williamson	1
+SUMMER2021	Jeffrey Woo	1
+SUMMER2021	Jeremy Bolton	1
+SUMMER2021	Jon Kropko	1
+SUMMER2021	Nada Basit	1
+SUMMER2021	Pete Alonzi	1
+SUMMER2021	Peter Gedeck	1
+SUMMER2021	Raf Alvarado	1
+SUMMER2021	Raf Alvarado & Teague Henry	1
+SUMMER2021	Renee Cummings	1
+SUMMER2021	Rich Nguyen	2
+SUMMER2021	Sree Mallikarjun	1
+SUMMER2021	Teague Henry	1
